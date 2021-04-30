@@ -6,7 +6,7 @@
 - [x] CSS
 - [x] JS (React)
 
-### Live Link: [Reactia](https://reactia.netlify.app/)
+### Live Link: [Reactia]()
 
 - [ ] Icons are used as SVG icon `src/img/react`
 - [ ] Posts data loaded from postData json file `src/postData.json`
